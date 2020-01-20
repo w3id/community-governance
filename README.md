@@ -10,9 +10,11 @@
 
 Komunitas _open source_ di Indonesia semakin berkembang. Seiring juga dengan perkembangan teknologi dan aksesibilitas informasi, makin banyak pula masyarakat luas yang tertarik untuk mendalami sebuah bahasa, _framework_, atau ekosistem pemrograman. Mulai dari mereka yang baru saja memulai bahasa pemrograman baru, sampai mereka yang sebelumnya belum pernah mendapat kesempatan untuk berkarya di bidang _open source_ secara umumnya.
 
-Salah satu tolak ukur sebuah komunitas _open source_ - baik itu komunitas bahasa pemrograman, komunitas _framework_, dan sebagainya - adalah keterbukaan dan keramahan para anggotanya terhadap satu sama lain, termasuk mereka yang belum memahami suatu teknologi yang sama-sama mereka minati. Oleh karena itu, sudah merupakan tanggung jawab semua yang terlibat dalam sebuah komunitas _open source_ untuk membentuk lingkungan komunitas yang ramah, aman dan nyaman untuk semua, tanpa membedakan gender, orientasi seksual, disabilitas, etnis, status sosial ekonomi, atau agama.
+Salah satu tolak ukur sebuah komunitas _open source_ - baik itu komunitas bahasa pemrograman, komunitas _framework_, dan sebagainya - adalah keterbukaan dan keramahan para anggotanya terhadap satu sama lain, termasuk mereka yang belum memahami suatu teknologi yang sama-sama mereka minati.
 
 Dokumen ini disediakan sebagai panduan bagi para penyelenggara (_organizer_) komunitas-komunitas _open source_ di Indonesia. Di dokumen ini, kami menyediakan sebuah _template_ Kode Etik yang dapat digunakan dalam komunitas masing-masing, dan panduan bagi penyelenggara komunitas dalam memoderasi komunitas mereka.
+
+Kami harap dengan memberikan panduan ini, komunitas-komunitas _open source_ di Indonesia dapat mengadopsinya untuk membentuk lingkungan komunitas yang ramah, aman dan nyaman untuk semua, tanpa membedakan gender, orientasi seksual, disabilitas, etnis, status sosial ekonomi, atau agama.
 
 ## Kode Etik dan Peraturan Komunitas
 
