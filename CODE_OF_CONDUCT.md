@@ -21,7 +21,7 @@ Jika Anda mengetahui seseorang yang melakukan usaha ekstra dalam mewujudkan komu
 - Bersikap baik, sopan, dan kolaboratif.
 - Tidak melakukan tindakan atau ucapan yang bersifat merendahkan, mendiskriminasi atau menghina.
 - Peka terhadap lingkungan sekitar, sesama anggota dan peserta. Jika Anda melihat adanya situasi yang berbahaya atau seseorang yang sedang membutuhkan pertolongan, harap segera memberitahu penyelenggara.
-- Ikut berpartisipasi dengan sungguh-sungguh dan aktif. Dengan demikian, Anda telah berkontribusi untuk komunitas ReactJS Indonesia dan membangun rasa memiliki seluruh anggota dan peserta.
+- Ikut berpartisipasi dengan sungguh-sungguh dan aktif. Dengan demikian, Anda telah berkontribusi untuk {$NAMA_KOMUNITAS} dan membangun rasa memiliki seluruh anggota dan peserta.
 - Ruang dan lokasi di mana komunikasi dan kegiatan komunitas diselenggarakan dapat merupakan ruang publik; maka semua pihak diharapkan dapat bersikap sopan terhadap siapa pun yang berada di ruang dan lokasi tersebut.
 
 ## 4. Perilaku Yang Tidak Diperkenankan
