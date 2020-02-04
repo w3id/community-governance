@@ -1,4 +1,4 @@
-# Panduan Moderasi Komunitas Open Source Indonesia
+# Panduan Komunitas Open Source Indonesia
 
 ## Daftar Isi
 
